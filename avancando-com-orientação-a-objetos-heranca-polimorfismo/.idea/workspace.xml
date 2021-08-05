@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a92768ca-5409-4f4d-aecb-1df52f30e69b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/PHP_POO_avancando/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP_POO_avancando/bonificacoes.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP_POO_avancando/src/Modelo/Conta/ContaCorrente.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP_POO_avancando/src/Service/ControladorDeBonificacacoes.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHP_POO_avancando/src/Modelo/Conta/Conta.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHP_POO_avancando/src/Modelo/Conta/Conta.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHP_POO_avancando/src/Modelo/Funcionario.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHP_POO_avancando/src/Modelo/Funcionario.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHP_POO_avancando/testesaque.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHP_POO_avancando/testesaque.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/PHP_POO_avancando" />
+  </component>
+  <component name="ProjectId" id="1u2E9qSXPPzWh8WyRQihs420iHo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/PHP_POO_avancando" />
+    </key>
+  </component>
+  <component name="RunManager" selected="PHP Script.testesaque.php">
+    <configuration name="banco.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/PHP_POO_avancando/banco.php">
+      <CommandLine>
+        <PhpTestInterpreterSettings>
+          <option name="interpreterName" value="PHP 8.0" />
+        </PhpTestInterpreterSettings>
+      </CommandLine>
+      <method v="2" />
+    </configuration>
+    <configuration name="testesaque.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/PHP_POO_avancando/testesaque.php">
+      <CommandLine>
+        <PhpTestInterpreterSettings>
+          <option name="interpreterName" value="PHP 8.0" />
+        </PhpTestInterpreterSettings>
+      </CommandLine>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHP Script.testesaque.php" />
+        <item itemvalue="PHP Script.banco.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a92768ca-5409-4f4d-aecb-1df52f30e69b" name="Default Changelist" comment="" />
+      <created>1623855135351</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1623855135351</updated>
+      <workItem from="1623855137007" duration="35000" />
+      <workItem from="1624119027743" duration="3747000" />
+      <workItem from="1624202105563" duration="678000" />
+      <workItem from="1624219732103" duration="49000" />
+      <workItem from="1624219942572" duration="586000" />
+      <workItem from="1624280786629" duration="132000" />
+      <workItem from="1624306958959" duration="2630000" />
+      <workItem from="1624562724048" duration="10000" />
+      <workItem from="1625583138602" duration="71000" />
+      <workItem from="1627562988772" duration="5235000" />
+      <workItem from="1628082422356" duration="45000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
